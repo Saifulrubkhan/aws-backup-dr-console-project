@@ -1,3 +1,10 @@
-_originals_unblurred/
+# Private keys
 *.pem
+*.key
+
+# Markdown files
+*.md
+
+# Unblurred originals and Windows download metadata
+_originals_unblurred/
 *:Zone.Identifier
